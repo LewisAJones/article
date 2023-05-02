@@ -12,3 +12,4 @@ This repository serves as a template for a research project carried out in R. It
 - `article`: Location of your article files
 - `figures`: Location of your figure files
   
+Note: `.gitkeep` files have been generated for empty directories to enable repository structure. These may be removed.
